@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Laba4\Laba4.1\obj\Debug\netcoreapp3.1\Laba4.1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Laba4\Laba4.1\obj\Debug\netcoreapp3.1\Laba4.1.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Laba4\Laba4.1\obj\Debug\netcoreapp3.1\Laba4.1.AssemblyInfo.cs
+C:\Users\user\source\repos\Laba4\Laba4.1\obj\Debug\netcoreapp3.1\Laba4.1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Laba4\Laba4.1\bin\Debug\netcoreapp3.1\Laba4.1.exe
+C:\Users\user\source\repos\Laba4\Laba4.1\bin\Debug\netcoreapp3.1\Laba4.1.deps.json
+C:\Users\user\source\repos\Laba4\Laba4.1\bin\Debug\netcoreapp3.1\Laba4.1.runtimeconfig.json
+C:\Users\user\source\repos\Laba4\Laba4.1\bin\Debug\netcoreapp3.1\Laba4.1.runtimeconfig.dev.json
+C:\Users\user\source\repos\Laba4\Laba4.1\bin\Debug\netcoreapp3.1\Laba4.1.dll
+C:\Users\user\source\repos\Laba4\Laba4.1\bin\Debug\netcoreapp3.1\Laba4.1.pdb
+C:\Users\user\source\repos\Laba4\Laba4.1\obj\Debug\netcoreapp3.1\Laba4.1.dll
+C:\Users\user\source\repos\Laba4\Laba4.1\obj\Debug\netcoreapp3.1\Laba4.1.pdb
+C:\Users\user\source\repos\Laba4\Laba4.1\obj\Debug\netcoreapp3.1\Laba4.1.genruntimeconfig.cache
+C:\Users\user\source\repos\Laba4\Laba4.1\bin\Debug\netcoreapp3.1\Laba4.1.xml
+C:\Users\user\source\repos\Laba4\Laba4.1\obj\Debug\netcoreapp3.1\Laba4.1.xml

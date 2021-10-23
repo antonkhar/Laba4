@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Laba4.1</name>
+    </assembly>
+    <members>
+        <member name="T:Laba4._1.MARSH">
+            <summary>
+             Структура, позволяющая описать обьект, имеющий номер, начальный пункт и конечный пункт
+            </summary>
+            <returns>
+             Object
+            </returns>
+            <code>
+             <see cref="T:Laba4._1.MARSH"/> bus
+             bus.<see cref="F:Laba4._1.MARSH.start"/> = Кемерово
+             bus.<see cref="F:Laba4._1.MARSH.finish"/> = Новгород
+             bus.<see cref="F:Laba4._1.MARSH.number"/> = 109
+            </code>
+            <param>
+             <see cref="F:Laba4._1.MARSH.start"/> - начальный пункт маршрута
+             <see cref="F:Laba4._1.MARSH.finish"/> - конечный пункт маршрута 
+             <see cref="F:Laba4._1.MARSH.number"/> - номер
+            </param>
+        </member>
+        <member name="M:Laba4._1.MARSH.PrintInfo(System.Int32)">
+            <summary>
+             Функция для вывода информации об обьекте структуры (по номеру) <see cref="T:Laba4._1.MARSH"/>, а так же для проверки на совпадение номера в массиве элементов
+            </summary>
+            <returns>
+             bool: true - если значение выведено, false - если значение не выведено
+            </returns>
+            <param>
+             Номер обьекта, информацию по которому необходимо получить
+            </param>
+        </member>
+        <member name="M:Laba4._1.NumberRepetitionException.#ctor">
+            <summary>
+             Выбрасывается при совпадении номеров у 2-х разных обьектов
+            </summary>
+        </member>
+        <member name="M:Laba4._1.NumberOverflowException.#ctor">
+            <summary>
+             Выбрасывается при введении в поле number числа не лежащего в диапозоне от 1 до 999
+            </summary>
+        </member>
+        <member name="M:Laba4._1.NullException.#ctor">
+            <summary>
+             Выбрасывается при введении в поле start или finish пустого значения
+            </summary>
+        </member>
+        <member name="M:Laba4._1.TextException.#ctor">
+            <summary>
+             Выбрасывается при введении в поле start или finish пустого значения
+            </summary>
+        </member>
+    </members>
+</doc>
